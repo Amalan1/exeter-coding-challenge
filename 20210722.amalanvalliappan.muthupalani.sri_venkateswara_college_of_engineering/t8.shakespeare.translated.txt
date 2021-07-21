@@ -1,0 +1,260 @@
+This is the 100th Etext file prÃ©sented by Project Gutenberg, and
+is prÃ©sented in cooperation with World Library, Inc., from leur
+Library of the Future and Shakespeare CDROMS.  Project Gutenberg
+souvent releases Etexts that are NOT endroitd in the Public Domain!!
+
+Shakespeare
+
+This Etext has certain copydroite implications you devrait read!
+
+<<THIS ELECTRONIC VERSION OF THE COMPLETE WORKS OF WILLIAM
+SHAKESPEARE IS COPYRIGHT 1990-1993 BY WORLD LIBRARY, INC., AND IS
+PROVIDED BY PROJECT GUTENBERG ETEXT OF ILLINOIS BENEDICTINE COLLEGE
+WITH PERMISSION.  ELECTRONIC AND MACHINE READABLE COPIES MAY BE
+DISTRIBUTED SO LONG AS SUCH COPIES (1) ARE FOR YOUR OR OTHERS
+PERSONAL USE ONLY, AND (2) ARE NOT DISTRIBUTED OR USED
+COMMERCIALLY.  PROHIBITED COMMERCIAL DISTRIBUTION INCLUDES BY ANY
+SERVICE THAT CHARGES FOR DOWNLOAD TIME OR FOR MEMBERSHIP.>>
+
+Project Gutenberg is fier to cooperate with The World Library
+in the prÃ©sentation of The Complete Works of William Shakespeare
+for your reading for education and entrertainment.  HOWEVER, THIS
+IS NEITHER SHAREWARE NOR PUBLIC DOMAIN. . .AND UNDER THE LIBRARY
+OF THE FUTURE CONDITIONS OF THIS PRESENTATION. . .NO CHARGES MAY
+BE MADE FOR ANY ACCESS TO THIS MATERIAL.  YOU ARE ENCOURAGED!!
+TO GIVE IT AWAY TO ANYONE YOU LIKE, BUT NO CHARGES ARE ALLOWED!!
+
+
+*Welcome To The World of Free Plain Vanilla Electronic Texts*
+
+*Etexts Readable By Both Humans and By Computers, Since 1971*
+
+These Etexts Prepared By Hundreds of Volunteers and Donations
+
+Information on contacting Project Gutenberg to get Etexts, and
+plus loin information is included au dessous de.  We need your donations.
+
+
+The Complete Works of William Shakespeare
+
+January, 1994  [Etext #100]
+
+
+The Library of the Future Complete Works of William Shakespeare
+Library of the Future is a TradeMark (TM) of World Library Inc.
+***This file devrait be named shaks12.txt or shaks12.zip**
+
+Corrected EDITIONS of our etexts get a new NUMBER, shaks13.txt
+VERSIONS based on separate sources get new LETTER, shaks10a.txt
+
+If you aurait like plus loin information sur World Library, Inc.
+Please call them at 1-800-443-0238 or email julianc@netcom.com
+Please give them our remerciers for leur Shakespeare cooperation!
+
+
+The official release date of all Project Gutenberg Etexts is at
+Midnuit, Central Time, of the last day of the Etatd mois.  A
+preliminary version may souvent be posted for suggestion, comment
+and editing by ceux who wish to do so.  To be sure you have an
+up to date premiÃ¨re edition [xxxxx10x.xxx] S'il vous plaÃ®t check file sizes
+in the premiÃ¨re week of the next mois.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at moins one byte more or less.
+
+
+Information sur Project Gutenberg (one page)
+
+We produce sur two million dollars for each hour we work.  The
+fifty heures is one conservative estimate for how long it we take
+to get any etext selected, entrered, preuveread, edited, copydroite
+cherchered and analyzed, the copydroite lettres Ã©crit, etc.  This
+projeted audience is one cent million readers.  If our value
+per text is nominally estimated at one dollar, then we produce 2
+million dollars per hour this year we, will have to do four text
+files per mois:  thus upping our productivity from one million.
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by the December 31, 2001.  [10,000 x 100,000,000=Trillion]
+This is ten thousand Titres each to one cent million readers,
+lequel is 10% of the expected nombre of computer users by the end
+of the year 2001.
+
+We need your donations more than ever!
+
+All donations devrait be made to "Project Gutenberg/IBC", and are
+tax deductible to the extent allowable by law ("IBC" is Illinois
+Benedictine College).  (Subscriptions to our papier newslettre go
+to IBC, too)
+
+For celles-ci and autre matiÃ¨res, S'il vous plaÃ®t mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all autre email fails try our Michael S. Hart, Executive Director:
+hart@vmd.cso.uiuc.edu (internet)   hart@uiucvmd   (bitnet)
+
+We aurait prefer to send you this information by email
+(Internet, Bitnet, Compuservir, ATTMAIL or MCImail).
+
+**
+If you have an FTP program (or emulator), S'il vous plaÃ®t
+FTP directly to the Project Gutenberg archives:
+[Mac users, do NOT point and click. . .type]
+
+ftp mrcnext.cso.uiuc.edu
+login:  anonymous
+pasÃ©pÃ©e:  your@login
+cd etext/etext91
+or cd etext92
+or cd etext93 [for new books]  [now also in cd etext/etext93]
+or cd etext/articles [get suggest gut for more information]
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET 0INDEX.GUT
+for a list of books
+and
+GET NEW GUT for gÃ©nÃ©ral information
+and
+MGET GUT* for newslettres.
+
+*Information prÃ©parerd by the Project Gutenberg legal advisor*
+
+
+** SMALL PRINT! for COMPLETE SHAKESPEARE **
+
+THIS ELECTRONIC VERSION OF THE COMPLETE WORKS OF WILLIAM
+SHAKESPEARE IS COPYRIGHT 1990-1993 BY WORLD LIBRARY, INC.,
+AND IS PROVIDED BY PROJECT GUTENBERG ETEXT OF
+ILLINOIS BENEDICTINE COLLEGE WITH PERMISSION.
+
+Since unlike many autre Project Gutenberg-tm etexts, this etext
+is copydroite protected, and depuis the materials and methods you
+use will effet the Project's rÃ©putation, your droite to copy and
+distribute it is limited by the copydroite and autre laws, and by
+the Ã©tats of this "Small Print!" Etatment.
+
+1.  LICENSE
+
+  A) YOU MAY (AND ARE ENCOURAGED) TO DISTRIBUTE ELECTRONIC AND
+MACHINE READABLE COPIES OF THIS ETEXT, SO LONG AS SUCH COPIES
+(1) ARE FOR YOUR OR OTHERS PERSONAL USE ONLY, AND (2) ARE NOT
+DISTRIBUTED OR USED COMMERCIALLY.  PROHIBITED COMMERCIAL
+DISTRIBUTION INCLUDES BY ANY SERVICE THAT CHARGES FOR DOWNLOAD
+TIME OR FOR MEMBERSHIP.
+
+  B) This license is matiÃ¨re to the Ã©tats that you honor
+the refund and reendroitment provisions of this "petit print!"
+Etatment; and that you distribute exact copies of this etext,
+including this Small Print Etatment.  Such copies can be
+compressed or any proprietary form (including any form resulting
+from word processing or hypertext software), so long as
+EITHER:
+
+    (1) The etext, when displayed, is clairly lisible, and does
+  not contain characters autre than ceux avoir l'intentioned by the
+  author of the work, bien que tilde (~), asterisk (*) and
+  sousline (_) characters may be used to convey punctuation
+  avoir l'intentioned by the author, and additional characters may be used
+  to indicate hypertext links; OR
+
+    (2) The etext is readily convertible by the reader at no
+  expense into plaine ASCII, EBCDIC or equivalent form by the
+  program that displays the etext (as is the case, for instance,
+  with most word processors); OR
+
+    (3) You provide or agree to provide on demande at no
+  additional cost, fee or expense, a copy of the etext in plaine
+  ASCII.
+
+2.  LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+
+This etext may contain a "Defect" in the form of inAchevÃ©e,
+inaccurate or corrupt data, transcription errors, a copydroite or
+autre infringement, a defective or damaged disk, computer virus,
+or codes that damage or ne peux pas be read by your equipment.  But
+for the "Right of Reendroitment or Refund" described au dessous de, the
+Project (and any autre fÃªte you may recevoir this etext from as
+a PROJECT GUTENBERG-tm etext) disprÃ©tendres all liability to you for
+damages, costs and expenses, including legal fees, and YOU HAVE
+NO REMEDIES FOR NEGLIGENCE OR UNDER STRICT LIABILITY, OR FOR
+BREACH OF WARRANTY OR CONTRACT, INCLUDING BUT NOT LIMITED TO
+INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES, EVEN IF
+YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGES.
+
+If you dÃ©couvrir a Defect in this etext dans 90 days of receiv-
+ing it, you can recevoir a refund of the argent (if any) you paid
+for it by sending an explanatory note dans that time to the
+la personne you recevoird it from.  If you recevoird it on a physical
+medium, you must revenir it with your note, and such la personne may
+choose to alteroriginaire dely give you a reendroitment copy.  If you
+recevoird it electronically, such la personne may choose to
+alteroriginaire dely give you a seconde opportunity to recevoir it
+electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.  Some Etats do not allow disprÃ©tendreers of
+implied mandaties or the exclusion or limitation of consequen-
+tial damages, so the au dessus disprÃ©tendreers and exclusions may not
+apply to you, and you may have autre legal droites.
+
+3.  INDEMNITY: You will indemnify and hold the Project, its
+directors, Bureaurs, members and agents harmless from all lia-
+bility, cost and expense, including legal fees, that arise
+directly or indirectly from any of the suivreing that you do or
+cause: [A] distribution of this etext, [B] alteration,
+modification, or addition to the etext, or [C] any Defect.
+
+4.  WHAT IF YOU WANT TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the nombre of
+Publique domain and licensed travaux that can be librement distribuÃ©
+in machine lisible form.  The Project gratefully accepts
+contributions in argent, time, scanning machines, OCR software,
+Publique domain etexts, Royalty free copydroite licenses, and
+whatever else you can pense of.  Money devrait be paid to "Pro-
+ject Gutenberg Association / Illinois Benedictine College".
+
+WRITE TO US! We can be reached at:
+     Internet: hart@vmd.cso.uiuc.edu
+       Bitnet: hart@uiucvmd
+   CompuServe: >internet:hart@.vmd.cso.uiuc.edu
+      Attmail: internet!vmd.cso.uiuc.edu!Hart
+        Mail:  Prof. Michael Hart
+               P.O. Box 2782
+               Champaign, IL 61825
+
+This "Small Print!" by Charles B. Kramer, Attorney
+Internet (72600.2026@compuservir.com); TEL: (212-254-5093)
+**   SMALL PRINT! FOR __ COMPLETE SHAKESPEARE **
+["Small Print" V.12.08.93]
+
+<<THIS ELECTRONIC VERSION OF THE COMPLETE WORKS OF WILLIAM
+SHAKESPEARE IS COPYRIGHT 1990-1993 BY WORLD LIBRARY, INC., AND IS
+PROVIDED BY PROJECT GUTENBERG ETEXT OF ILLINOIS BENEDICTINE COLLEGE
+WITH PERMISSION.  ELECTRONIC AND MACHINE READABLE COPIES MAY BE
+DISTRIBUTED SO LONG AS SUCH COPIES (1) ARE FOR YOUR OR OTHERS
+PERSONAL USE ONLY, AND (2) ARE NOT DISTRIBUTED OR USED
+COMMERCIALLY.  PROHIBITED COMMERCIAL DISTRIBUTION INCLUDES BY ANY
+SERVICE THAT CHARGES FOR DOWNLOAD TIME OR FOR MEMBERSHIP.>>
+
+
+1609
+
+THE SONNETS
+
+by William Shakespeare
+
+
+
+                     1
+  From fairest crÃ©atures we le dÃ©sir increase,
+  That LÃ by beautÃ©'s rose pourrait jamais die,
+  But as the riper devrait by time decesser,
+  His soumissionner heir pourrait bear his MÃ©moire:
+  But thou contracted to thine own bdroite eyes,
+  Feed'st thy lumiÃ¨re's flame with self-substantial fuel,
+  Making a
